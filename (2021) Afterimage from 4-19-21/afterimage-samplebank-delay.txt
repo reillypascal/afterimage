@@ -1,2 +1,0 @@
-1, 36 delay-sample1 0 0 0;
-2, 37 delay-sample2 0 0 0;
